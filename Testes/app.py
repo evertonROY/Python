@@ -1,3 +1,3 @@
 
-from browser import document
-document <= ""
+'''from browser import document
+document <= ""'''
