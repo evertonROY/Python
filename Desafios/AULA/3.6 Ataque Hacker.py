@@ -1,6 +1,10 @@
 A, B = map(int, input().split())
-C = int(1)
-for i in range(B):
-    D = A/C
-    C += 1
-    print (D)
+P = 1
+for i in range(A, B+1):
+   C = P%i
+   while C == 0:
+       P += 1
+
+
+   print(i, P)
+    
