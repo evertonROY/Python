@@ -4,4 +4,4 @@ print("Digite o segundo numero!")
 B = int(input())
 print("A soma de", A, "+", B, "=", int(A+B))
 
-#ola mundo
+
